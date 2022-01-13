@@ -34,7 +34,7 @@
 [vk]: https://vk.com/volodichevcom
 [tg]: https://t.me/volodichev
 [api_docs]: https://blog.volodichev.com/api
-[ru_page]: /index_ru
+[ru_page]: https://github.volodichev.com/index_ru
 
 <br/>
 
