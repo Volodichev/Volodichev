@@ -33,7 +33,6 @@
 [instagram]: https://instagram.com/volodichev
 [vk]: https://vk.com/volodichevcom
 [tg]: https://t.me/volodichev
-[api_docs]: https://blog.volodichev.com/api
 [ru_page]: https://github.volodichev.com/index_ru
 
 <br/>
