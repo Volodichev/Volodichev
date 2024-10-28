@@ -24,42 +24,6 @@
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nginx.svg" title="Nginx" alt="Nginx" width="45" height="45"/>
 </div>
 
-## Projects:
-
-
-
-- <a href="https://github.com/Volodichev/nomer.org">**Nomer.org**</a> _(FastApi)_ — antispam site with phones
-<br/>
-<br/>
-
-- <a href="https://github.com/Volodichev/SMMPanel">**SMMpanel**</a>_(Django)_ — collecting & scheduled publishing
-in social networks
-<br/> 
-<br/>
-
-- <a href="https://github.com/Volodichev/vsSPAMbot">**vsSPAMbot**</a> _(Aiogram)_ — antispam moderator bot for telegram
-<br/>
-<br/>
-
-- <a href="https://github.com/Volodichev/neberitrubkubot">**NeberiTrubkuBot**</a> _(Django)_ — telegram bot checks phone numbers on neberitrubku.ru
-<br/>
-<br/>
-
-- <a href="https://volodichev.com/autoposting">**AUTOPOSTING**</a> to telegram channels
-<br/>
-<br/>
-
-- <a href="https://github.com/Volodichev/instagram_indents">**INSTAGRAM_INDENTS**</a> — telegram bot
-<br/>
-<br/>
-
-- <a href="https://github.com/Volodichev/free_proxy">**FREE_PROXY**</a> — free proxy broker
-<br/>
-<br/>
-
-- <a href="https://github.com/Volodichev/sort_files">**SORT_FILES**</a> — Sort and organize your files (photos, videos and other media from iphone, ipad, camera etc.) by date
-
-<br/>
 <br/>
 <br/>
 <br/>
